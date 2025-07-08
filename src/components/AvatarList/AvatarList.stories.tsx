@@ -79,7 +79,7 @@ export const BigUserCount: Story = {
 }
 
 export const Empty: Story = {}
-/* 
+
 export const LargeNumberOfUsers: Story = {
   args: {
     users: Array.from({ length: 50 }, (_, i) => ({
@@ -115,4 +115,3 @@ export const LargeNumberOfUsers: Story = {
     )
   },
 }
- */
